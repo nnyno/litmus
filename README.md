@@ -10,6 +10,8 @@
 역할|코드 총괄, ph scale과 시약 정보 연동|시약 농도에 따른 ph 값 알고리즘 구현|버튼 구현, 컬러모델 알고리즘 작성|인터페이스 구현, 시약 번짐 모델 구현|
 # 기간
 - 2021.09 ~ 2021.12 (약 4개월)
+# 기능
+시약과 농도 선택에 따른 PH농도와 리트머스 종이의 색상 변화를 보여줌
 # 인터페이스
 ![image](https://github.com/nnyno/litmus/assets/104333303/c0d0230b-7315-4d2c-b931-cd9c764826a6)
 ![image](https://github.com/nnyno/litmus/assets/104333303/49a59d2a-03bc-4fe6-b6f2-3606ef4d33ac)
